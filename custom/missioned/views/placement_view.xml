@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<odoo>
+    <data>
+
+        <record model="ir.actions.act_window" id="action_view_comapnies">
+            <field name="name">Job Offers</field>
+            <field name="res_model">placement.portal</field>
+        </record>
+
+        <record model="ir.actions.act_window" id="action_view_universities">
+            <field name="name">Placement Status</field>
+            <field name="res_model">placement.portal</field>
+        </record>
+        
+        <menuitem id="menu_placement" name="Placement"/>
+        <menuitem id="placement_comapnies" name="Comapnies" parent="menu_placement" action="action_view_comapnies"/>
+        <menuitem id="placement_universities" name="Universities" parent="menu_placement" action="action_view_universities"/>
+    </data>
+</odoo>
