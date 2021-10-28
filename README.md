@@ -3,9 +3,9 @@
 MissionEd is a Placement Portal module as an open-source Odoo Extension.
 The missioned module is maintained in parallel to odoo source-code and included in the add-ons.
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-Note: View this file in RAW format to understand the instructions accurately!
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!  
+Note: View this file in RAW format to understand the instructions accurately!  
+!!!!!!!!!!
 
 -> PLace the Odoo source folder appropiately in this tree format:
 
